@@ -1,0 +1,44 @@
+* {
+  border: 1px dashed cornflowerblue;
+}
+
+body {
+  font-size: 16px;
+  color: cornflowerblue;
+  background-color: #ddd
+}
+
+header {
+  background: #eee;
+  padding: 1rem;
+}
+
+p {
+  color: #670A0A;
+}
+
+img {
+  width: 35%;
+  border: 3px double orange;
+  border-radius: 1rem;
+}
+
+.second-paragraph {
+  width:75%;
+  color: red;
+}
+
+.main-paragraph {
+  width: 12rem;
+   text-align: justify;
+   padding: 1rem;
+}
+
+
+p {
+  color: green;
+}
+
+span {
+  font-size: 3rem;
+}
